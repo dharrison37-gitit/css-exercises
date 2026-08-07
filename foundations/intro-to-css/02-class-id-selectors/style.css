@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(245, 142, 142);
+    font-family: Verdana, "DajaVu Sans", sans-serif;
+}
+
+#blue-large {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd.larger {
+    font-size: 24px;
+}
+
+#green-large-bold {
+    background-color: rgb(101, 245, 101);
+    font-size: 24px;
+    font-weight: bold;
+}
